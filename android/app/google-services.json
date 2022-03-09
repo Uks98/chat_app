@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335258940870",
+    "project_id": "over-chat-app",
+    "storage_bucket": "over-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335258940870:android:58d389f8f6230c0adaeec7",
+        "android_client_info": {
+          "package_name": "com.example.overwatch_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335258940870-bhe6a2rgr2c86k7hfck324np13n38kh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaroBsy8AGXi6OOmdS_2fieUtFYS5kEgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335258940870-bhe6a2rgr2c86k7hfck324np13n38kh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
